@@ -1,0 +1,1 @@
+Replication of Sakar et al. (2019): purchase intention prediction with MLP and LSTM
