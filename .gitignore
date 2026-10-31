@@ -1,0 +1,11 @@
+# Downloaded datasets from Ch10 (MNIST, CIFAR100, IMDB)
+ISL_labs/data/
+
+# Training logs and checkpoints
+logs/
+lightning_logs/
+*.ckpt
+
+# Python and Jupyter junk
+__pycache__/
+.ipynb_checkpoints/
