@@ -1,7 +1,5 @@
-"""Draw the report figures from saved results. Nothing is trained here.
-
-Run from the online_shopper_intention_prediction folder:
-    python report_figures/make_figures.py
+"""
+For making useful Figures from the results/ for the final REPORT.
 """
 import base64
 

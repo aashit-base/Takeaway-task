@@ -1,8 +1,8 @@
 # Take_away_task
 
-Analytics for Business and Society: ISL labs and a replication of a research paper.
+Analytics for Business and Society [HST - 105]: ISL labs and a replication of a research paper.
 
-Authors: Aashit Kumar Singh and Dhruv Singh Bisht
+Team Members: Aashit Kumar Singh and Dhruv Singh Bisht
 
 **The main report is online_shopper_intention_prediction/report_summary.docx** (the same text is in report_summary.md).
 
