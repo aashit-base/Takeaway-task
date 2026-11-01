@@ -9,7 +9,7 @@ We replicate and extend Sakar, Polat, Katircioglu and Kastro (2019), "Real-time 
 ## What is in this folder
 
 | File or folder | What it is for |
-|---|---|---|
+|---|---|
 | 01_data_exploration.ipynb | Checks the data and reproduces Tables 1 and 2 |
 | 02_preprocessing.ipynb | Explains the preparation steps and shows why oversampling comes after the split | 
 | 03_baselines_tree_rf_svm.ipynb | Decision tree, random forest and SVM (Tables 3, 5, 6, 8) | 
@@ -21,7 +21,7 @@ We replicate and extend Sakar, Polat, Katircioglu and Kastro (2019), "Real-time 
 | 10_extensions.ipynb | Extra models, SMOTE, and threshold and cost | 
 | utils.py | Shared settings and helper functions | 
 | results/ | Saved metrics for each repeat, and the feature rankings |
-| report_figures/ | Report figures, plus make_figures.py and build_docx.py, which rebuild the figures and the Word report | 
+| report_figures/ | Report figures |
 | data/ | The real dataset, and the SYNTHETIC data from notebook 07 | 
 | 01 data - about.pdf | Description of the dataset | 
 | 02 paper 2019.pdf | The paper we replicate | 
